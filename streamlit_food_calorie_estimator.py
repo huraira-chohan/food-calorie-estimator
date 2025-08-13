@@ -8,7 +8,7 @@ import time
 
 # ---- Constants ----
 # The API key is automatically provided by the Canvas environment.
-API_KEY = ""
+API_KEY = "AIzaSyBaLEBgaiDKZNUqkYg2w4XzuRfWd06Ys6Y"
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key="
 MODEL_URL = f"{API_URL}{API_KEY}"
 
